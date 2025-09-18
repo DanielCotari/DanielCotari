@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/tuusuario" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://tiktok.com/@tuusuario" target="blank">
+  <a href="https://www.tiktok.com/@xdfandmiku_sd" target="blank">
     <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/>
   </a>
-  <a href="mailto:tuemail@gmail.com" target="blank">
+  <a href="mailto:crj0035769@est.univalle.edu" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </p>
