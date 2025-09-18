@@ -48,16 +48,16 @@
 <tr border="none">
 
 <td width="50%" align="center">
-  <a href="https://github.com/tuusuario/unity-limbo-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=unity-limbo-game&theme=dark" />
+  <a href="https://github.com/DanielCotari/unity-limbo-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=unity-limbo-game&theme=dark" />
   </a>
   <br>
   🎮 Juego tipo Limbo en Unity (C#)
 </td>
 
 <td width="50%" align="center">
-  <a href="https://github.com/tuusuario/muebleria-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=muebleria-system&theme=dark" />
+  <a href="https://github.com/DanielCotari/muebleria-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=muebleria-system&theme=dark" />
   </a>
   <br>
   🛋 Sistema de gestión para mueblería (MVC en C# + MySQL + SQL Server)
@@ -68,22 +68,23 @@
 <tr border="none">
 
 <td width="50%" align="center">
-  <a href="https://github.com/tuusuario/leaflet-location-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=leaflet-location-app&theme=dark" />
+  <a href="https://github.com/DanielCotari/leaflet-location-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=leaflet-location-app&theme=dark" />
   </a>
   <br>
   🌍 Registro de ubicaciones con Leaflet + PHP + MySQL
 </td>
 
 <td width="50%" align="center">
-  <a href="https://github.com/tuusuario/taekwondo-inscription">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=taekwondo-inscription&theme=dark" />
+  <a href="https://github.com/DanielCotari/taekwondo-inscription">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=taekwondo-inscription&theme=dark" />
   </a>
   <br>
   🥋 App Android en Kotlin para inscripciones de Taekwondo
 </td>
 
 </tr>
+
 </table>
 
 ---
