@@ -53,7 +53,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=unity-limbo-game&theme=dark" />
   </a>
   <br>
-  🎮 Juego tipo **Limbo en Unity (C#)**
+  🎮 Juego tipo Limbo en Unity (C#)
 </td>
 
 <td width="50%" align="center">
@@ -61,7 +61,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=muebleria-system&theme=dark" />
   </a>
   <br>
-  🛋 Sistema de gestión para **mueblería (MVC en C# + MySQL + SQL Server)**
+  🛋 Sistema de gestión para mueblería (MVC en C# + MySQL + SQL Server)
 </td>
 
 </tr>
@@ -73,7 +73,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=leaflet-location-app&theme=dark" />
   </a>
   <br>
-  🌍 **Registro de ubicaciones con Leaflet + PHP + MySQL**
+  🌍 **Registro de ubicaciones con Leaflet + PHP + MySQL
 </td>
 
 <td width="50%" align="center">
@@ -81,7 +81,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=taekwondo-inscription&theme=dark" />
   </a>
   <br>
-  🥋 **App Android en Kotlin para inscripciones de Taekwondo**
+  🥋 App Android en Kotlin para inscripciones de Taekwondo
 </td>
 
 </tr>
