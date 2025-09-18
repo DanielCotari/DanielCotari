@@ -35,7 +35,6 @@
   </a>
 </p>
 
-<!-- Iconos personalizados -->
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="48" height="48" alt="Blender" title="Blender"/>
@@ -73,7 +72,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=leaflet-location-app&theme=dark" />
   </a>
   <br>
-  🌍 **Registro de ubicaciones con Leaflet + PHP + MySQL
+  🌍 Registro de ubicaciones con Leaflet + PHP + MySQL
 </td>
 
 <td width="50%" align="center">
