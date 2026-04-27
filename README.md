@@ -1,107 +1,96 @@
-<h1 align="center">Hola 👋 soy Daniel Cotari ✨</h1> 
+<h1 align="center">🚀 Hola, soy Daniel Cotari 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuusuario" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Estudiante+de+Ingeniería+en+Sistemas;Futuro+Ingeniero+de+Sistemas+Espaciales;Apasionado+por+la+Tecnología+y+el+Espacio;Aprendiendo+Teledetección+con+NASA" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@xdfandmiku_sd" target="blank">
-    <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/>
+  <a href="https://www.tiktok.com/@xdfandmiku_sd" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="mailto:crj0035769@est.univalle.edu" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  <a href="mailto:crj0035769@est.univalle.edu">
+    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h2>Sobre mí 😃</h2>
+## 🧑‍🚀 Sobre mí
 
-🎓 Estudiante de **Ingeniería en Sistemas**  
-💻 Desarrollador en **C#, .NET, Unity, PHP, MySQL, SQL Server, JavaScript, Kotlin**  
-🚀 Actualmente cursando cursos sobre Teledetecciones**  
-🥋 Autor de un **sistema de inscripciones para escuela de Taekwondo en Android (Kotlin)**  
-🛠 Experiencia en **sistemas web (MVC), bases de datos y proyectos con Arduino**  
-🎨 Manejo **Blender** para modelado y animación 3D  
-🤖 Interesado en **visión por computadora con OpenCV y MediaPipe**  
-📫 Contacto: crj0035769@est.univalle.edu  
-
----
-
-<h2>Tecnologías y herramientas 👨🏻‍💻</h2>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,php,mysql,html,css,js,arduino,git,github,vscode,java,kotlin,opencv&perline=9" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="48" height="48" alt="Blender" title="Blender"/>
-</p>
+🎓 Estudiante de **Ingeniería en Sistemas**
+🚀 Enfocado en **Ingeniería de Sistemas Espaciales**
+🛰️ Actualmente aprendiendo **Teledetección y datos satelitales (NASA ARSET)**
+💻 Desarrollador en **C#, .NET, Unity, PHP, MySQL, SQL Server, JavaScript, Kotlin**
+🤖 Interesado en **IA, visión por computadora y análisis de datos espaciales**
+🛠 Experiencia en **sistemas web, bases de datos y proyectos con Arduino**
+🎨 Modelado y animación 3D con **Blender**
+📫 Contacto: **[crj0035769@est.univalle.edu](mailto:crj0035769@est.univalle.edu)**
 
 ---
 
-<h2>Proyectos basicos 👨🏻‍💻</h2>
+## 🎯 Objetivo Profesional
 
-<table align="center">
-<tr border="none">
+Convertirme en **Ingeniero de Sistemas Espaciales**, trabajando en:
 
-<td width="50%" align="center">
+* 🛰️ Sistemas satelitales
+* 🌍 Observación terrestre y análisis geoespacial
+* 🤖 Inteligencia artificial aplicada al espacio
+* 🚀 Simulación de misiones espaciales
+
+---
+
+## 🛠 Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,php,mysql,html,css,js,arduino,git,github,vscode,java,kotlin,opencv&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="48" title="Blender"/>
+</p>
+
+---
+
+## 🛰️ Proyectos
+
+<p align="center">
   <a href="https://github.com/DanielCotari/unity-limbo-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=unity-limbo-game&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=unity-limbo-game&theme=tokyonight"/>
   </a>
-  <br>
-  🎮 Juego tipo Limbo en Unity (C#)
-</td>
-
-<td width="50%" align="center">
   <a href="https://github.com/DanielCotari/muebleria-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=muebleria-system&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=muebleria-system&theme=tokyonight"/>
   </a>
-  <br>
-  🛋 Sistema de gestión para mueblería (MVC en C# + MySQL + SQL Server)
-</td>
+</p>
 
-</tr>
-
-<tr border="none">
-
-<td width="50%" align="center">
+<p align="center">
   <a href="https://github.com/DanielCotari/leaflet-location-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=leaflet-location-app&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=leaflet-location-app&theme=tokyonight"/>
   </a>
-  <br>
-  🌍 Registro de ubicaciones con Leaflet + PHP + MySQL
-</td>
-
-<td width="50%" align="center">
   <a href="https://github.com/DanielCotari/taekwondo-inscription">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=taekwondo-inscription&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCotari&repo=taekwondo-inscription&theme=tokyonight"/>
   </a>
-  <br>
-  🥋 App Android en Kotlin para inscripciones de Taekwondo
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
-<h2 align="center">🚀 Estadísticas de GitHub</h2>
+## 📊 Estadísticas de GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DanielCotari&theme=tokyonight&hide_border=true"/>
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=DanielCotari&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCotari&theme=tokyonight&layout=compact&hide_border=true"/>
+</p>
 
-  <br><br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DanielCotari&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCotari&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+---
 
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=DanielCotari&theme=dracula&row=1&column=7&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-</div>
-
+## 🌌 "Del código al espacio, construyendo sistemas del futuro 🚀"
