@@ -18,7 +18,7 @@
 
 🎓 Estudiante de **Ingeniería en Sistemas**  
 💻 Desarrollador en **C#, .NET, Unity, PHP, MySQL, SQL Server, JavaScript, Kotlin**  
-🎮 Actualmente creando un **juego tipo Limbo en Unity**  
+🚀 Actualmente cursando cursos sobre Teledetecciones**  
 🥋 Autor de un **sistema de inscripciones para escuela de Taekwondo en Android (Kotlin)**  
 🛠 Experiencia en **sistemas web (MVC), bases de datos y proyectos con Arduino**  
 🎨 Manejo **Blender** para modelado y animación 3D  
